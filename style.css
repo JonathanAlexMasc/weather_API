@@ -12,6 +12,7 @@ body{
     
     display: block;
     margin: 0 auto;
+    margin-bottom: 10px;
     
     border-radius: 10px;
     padding-bottom : 10px;
@@ -25,7 +26,10 @@ body{
     margin: 0 auto;
     
     border-radius: 10px;
-    padding-bottom : 50px;
+    padding-top : 30px;
+    padding-bottom : 30px;
+
+    text-align: center;
 }
 
 .app-title{
