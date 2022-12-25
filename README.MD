@@ -6,16 +6,17 @@ This program gets data from an API by using your location and gives you informat
 
 In order to use this program, go to the green button at the top right called "<> Code", and download the program as a ZIP file. 
 
+## Technologies Used
 
-## Usage
+In order to use this program, go to the green button at the top right called "<> Code", and download the program as a ZIP file. 
+
+
+## Functionalities
 
 ```python
 
 ```
 
-## Contributing
+## Troubleshooting
 
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
+The program will not work if location access is denied. If location access was denied the first time, refresh the page and "allow" location access to the program.
